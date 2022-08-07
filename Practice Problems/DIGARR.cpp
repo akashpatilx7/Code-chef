@@ -1,6 +1,7 @@
 /* Rearranging digits to get a multiple of 5
 Problem Code: DIGARR
-Contest Code: COOK140 */
+Contest Code: COOK140
+Difficulty Rating:949 */
 
 
 #include<bits/stdc++.h>
