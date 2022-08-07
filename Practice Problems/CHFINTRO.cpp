@@ -1,6 +1,7 @@
 /* Chef and Interactive Contests
 Problem Code: CHFINTRO
-Contest Code: DEC18 */ 
+Contest Code: DEC18
+Difficulty Rating:951 */  
 
 #include<bits/stdc++.h>
 #define ll long long
